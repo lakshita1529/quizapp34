@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Earth", "Mars", "Venus", "Mercury"],
+      "answer": "Mercury"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": 4,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+      "answer": "Blue Whale"
+    },
+    {
+      "id": 6,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 7,
+      "question": "What is the capital city of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "id": 8,
+      "question": "Which element is represented by the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 9,
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "id": 10,
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1905", "1898", "1915"],
+      "answer": "1912"
+    },
+    {
+      "id": 11,
+      "question": "Which artist painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": 12,
+      "question": "How many bones are in the human body?",
+      "options": ["206", "205", "201", "208"],
+      "answer": "206"
+    },
+    {
+      "id": 13,
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": 14,
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+      "answer": "Mount Everest"
+    },
+    {
+      "id": 15,
+      "question": "Who is the author of 'Harry Potter'?",
+      "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+      "answer": "J.K. Rowling"
+    }]
+   
+  
