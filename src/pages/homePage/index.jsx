@@ -1,7 +1,7 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
 import appStyles from '../../components/shared/AppStyles';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 export const HomePage = () => {
   return (

@@ -3,7 +3,7 @@ import { QuestionView } from '../../views/QuestionView';
 import { ResultView } from '../../views/ResultView';
 import { QuizTimer } from '../../components/custom/QuizTimer';
 import questions from '../../data/questions.json';
-import appStyles from '../../components/shared/AppStyles';
+
 
 export const QuizContainer = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -33,7 +33,7 @@ export const QuizContainer = () => {
   }
 
   return (
-    <div style={appStyles.quizContainer}>
+    <div className="container mt-4 p-4 border rounded bg-light">
       <QuizTimer initialTime={30} onTimeEnd={() => setQuizEnd(true)} />
       <QuestionView
         question={questions[currentQuestion].question}

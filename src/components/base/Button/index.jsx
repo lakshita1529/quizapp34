@@ -1,9 +1,6 @@
-import React from 'react';
-import '../../shared/AppStyles';
-
-export const Button = ({ label, onClick }) => {
+export const Button = ({ label, onClick, variant = 'primary' }) => {
   return (
-    <button className="btn" onClick={onClick}>
+    <button className={`btn btn-${variant}`} onClick={onClick}>
       {label}
     </button>
   );
